@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Inetum](https://gfi1.sharepoint.com/_forms/default.aspx)
 
-- 🌱 I’m currently learning **AngularJS and java**
+- 🌱 I’m currently learning **Java Spring Boot and AngularJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
